@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/ZombieWizzard/Ace.svg?branch=master)](https://travis-ci.org/ZombieWizzard/Ace)
 [![Ace Discord](https://img.shields.io/badge/discord-Ace-738bd7.svg?style=flat)](https://discord.gg/bfxdsRC)
 
-:sparkles: Ace - Alpha Client Enhancer.  
+Ace - Alpha Client Enhancer.  
 A project that aims to get useful features into the new League of Legends client that Riot Games has been developing.  
 
 Ace currently in beta and might not completely stable. Steps have been taken to ensure that Ace does not crash the client and day-to-day usage should be as stable as the normal client, but you should not be surprised if something goes wrong.
